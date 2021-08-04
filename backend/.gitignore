@@ -1,0 +1,3 @@
+#IGNORE DEPENDECIES#
+node_modules
+*.logs
